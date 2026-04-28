@@ -1,2 +1,12 @@
-# srgpt-web
-SRGPTシリーズの公開説明ページとドキュメントを管理するためのWebリポジトリです。Public documentation and web pages for the SRGPT series.
+# SRGPT Web
+
+SRGPT Web は、SRGPTシリーズの公開説明ページとドキュメントを管理するためのリポジトリです。
+
+SRGPTは、単なる用途別GPT群ではなく、問い・実務・関係・身体・実装前構造などを「観測軸」から整理するためのOS群です。
+
+## Current status
+
+This repository is in an early setup phase.
+
+最初はMarkdownドキュメントを中心に小さく始めます。
+Webページや多言語対応は、必要に応じて段階的に整えます。

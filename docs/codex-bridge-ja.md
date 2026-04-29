@@ -1,4 +1,4 @@
-# Biz/SI と Codex の接続（初稿）
+# Biz/SI と Codex の接続ガイド
 
 この文書は、Biz/SI と Codex を「実装前構造を整える」文脈で接続する最小ガイドです。
 
